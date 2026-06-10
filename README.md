@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall across the room, the fire's burning slow
+> You look at me with heavy eyes, and baby, I just know
+> We're crossing over every line we drew upon the floor
+> I've never wanted anyone the way I want you more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
